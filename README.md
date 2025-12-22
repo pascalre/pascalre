@@ -23,7 +23,3 @@ Currently working at [dmTECH](https://www.dmtech.tech/de/), helping build reliab
     Presented at [Solace Connect Frankfurt](https://solace.com/event/2025-connect-frankfurt/)<br>
 * *From Legacy to Multi-Cloud EDA: Selecting and Conception of a Modern EDA Platform*<br>
     Presented at [Rethink Integration Frankfurt](https://solace.com/event/rethink-integration-frankfurt/)
-
-#### 📰 Mentioned
-* Retail Optimiser: *dmTECH is very pleased with Solace*<br>
-    https://retail-optimiser.de/en/dm-is-very-pleased-with-solace/
