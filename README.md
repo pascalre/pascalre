@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi There, I'm Pascal! 👋
+<a href="https://www.linkedin.com/in/pascal-reitermann/">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
+</a>
+<a href="https://dev.to/pascalre">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/devdotto/777" />
+</a>
 
-<!--
-**pascalre/pascalre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### About Me
+I’m a DevOps Engineer with a strong focus on Event-Driven Architecture, Messaging and Observability.<br>
+Currently working at [dmTECH](https://www.dmtech.tech/de/), helping build reliable, real-time integration platforms.<br>
+💬 Happy to talk about Solace, MQTT/JMS, OTEL, Grafana & large-scale EDA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Writing & Community
+#### 📕 Blog
+* *Securing Solace Metrics: How to Use OAuth with solace-prometheus-exporter*<br>
+    https://dev.to/pascalre/securing-solace-metrics-how-to-use-oauth-with-solace-prometheus-exporter-2i6l
+
+#### 🎙️ Talks
+* *Event-Driven Integration at dmTECH: A successful migration and the path into real-time logistics*<br>
+    Presented at [Solace Connect Frankfurt](https://solace.com/event/2025-connect-frankfurt/)<br>
+* *From Legacy to Multi-Cloud EDA: Selecting and Conception of a Modern EDA Platform*<br>
+    Presented at [Rethink Integration Frankfurt](https://solace.com/event/rethink-integration-frankfurt/)
+
+#### 📰 Mentioned
+* Retail Optimiser: *dmTECH is very pleased with Solace*<br>
+    https://retail-optimiser.de/en/dm-is-very-pleased-with-solace/
