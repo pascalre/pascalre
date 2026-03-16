@@ -1,25 +1,20 @@
-## Hi There, I'm Pascal! 👋
-<a href="https://www.linkedin.com/in/pascal-reitermann/">
-  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
-</a>
-<a href="https://dev.to/pascalre">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/devdotto/777" />
-</a>
+## Hi, I'm Pascal! 👋
+#### **Technical Trainer @ Solace**<br>
+I bridge the gap between complex Event-Driven Architectures (EDA) and the developers who build them. With a background in large-scale platform engineering, I’m passionate about making real-time data flows observable, reliable, and developer-friendly.
 
-<br>
+I’m deep in the trenches of the modern telemetry stack. Whether it's building OTel-native pipelines, optimizing dashboards, or exploring next-gen platforms, I believe that an event mesh is only as good as its observability.
 
-### About Me
-I’m a DevOps Engineer with a strong focus on Event-Driven Architecture, Messaging and Observability.<br>
-Currently working at [dmTECH](https://www.dmtech.tech/de/), helping build reliable, real-time integration platforms.<br>
 💬 Happy to talk about Solace, MQTT/JMS, OTEL, Grafana & large-scale EDA.
 
 ### Writing & Community
 #### 📕 Blog
+* *Design-First or Infrastructure-as-Code? Choosing the Source of Truth for your Solace Broker*<br>
+    https://dev.to/pascalre/design-first-or-infrastructure-as-code-choosing-the-source-of-truth-for-your-solace-broker-33di
 * *Securing Solace Metrics: How to Use OAuth with solace-prometheus-exporter*<br>
     https://dev.to/pascalre/securing-solace-metrics-how-to-use-oauth-with-solace-prometheus-exporter-2i6l
 
 #### 🎙️ Talks
 * *Event-Driven Integration at dmTECH: A successful migration and the path into real-time logistics*<br>
     Presented at [Solace Connect Frankfurt](https://solace.com/event/2025-connect-frankfurt/)<br>
-* *From Legacy to Multi-Cloud EDA: Selecting and Conception of a Modern EDA Platform*<br>
+* *From Legacy to Multi-Cloud EDA: Selection and Conception of a Modern EDA Platform*<br>
     Presented at [Rethink Integration Frankfurt](https://solace.com/event/rethink-integration-frankfurt/)
