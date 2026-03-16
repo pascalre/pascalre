@@ -4,7 +4,7 @@ I bridge the gap between complex Event-Driven Architectures (EDA) and the develo
 
 I’m deep in the trenches of the modern telemetry stack. Whether it's building OTel-native pipelines, optimizing dashboards, or exploring next-gen platforms, I believe that an event mesh is only as good as its observability.
 
-💬 Happy to talk about Solace, MQTT/JMS, OTEL, Grafana & large-scale EDA.
+💬 Happy to talk about Solace, MQTT/JMS, OTel, Grafana & large-scale EDA.
 
 ### Writing & Community
 #### 📕 Blog
