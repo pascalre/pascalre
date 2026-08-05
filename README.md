@@ -1,5 +1,5 @@
 ## Hi, I'm Pascal! 👋
-#### **Technical Trainer @ Solace**<br>
+#### **Solutions Architect @ Solace**<br>
 I bridge the gap between complex Event-Driven Architectures (EDA) and the developers who build them. With a background in large-scale platform engineering, I’m passionate about making real-time data flows observable, reliable, and developer-friendly.
 
 I’m deep in the trenches of the modern telemetry stack. Whether it's building OTel-native pipelines, optimizing dashboards, or exploring next-gen platforms, I believe that an event mesh is only as good as its observability.
@@ -18,3 +18,7 @@ I’m deep in the trenches of the modern telemetry stack. Whether it's building 
     Presented at [Solace Connect Frankfurt](https://solace.com/event/2025-connect-frankfurt/)<br>
 * *From Legacy to Multi-Cloud EDA: Selection and Conception of a Modern EDA Platform*<br>
     Presented at [Rethink Integration Frankfurt](https://solace.com/event/rethink-integration-frankfurt/)
+
+#### 📰 Mentioned
+* Retail Optimiser: *dmTECH is very pleased with Solace*<br>
+    https://retail-optimiser.de/en/dm-is-very-pleased-with-solace/
